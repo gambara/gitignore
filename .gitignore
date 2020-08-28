@@ -1,3 +1,7 @@
+# comment made
 new-file.txt
-
+# ignore all files in bin folder
 bin/
+
+# ignore all .tmp files
+*.tmp
